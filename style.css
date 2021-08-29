@@ -1,3 +1,7 @@
-/* #welcome-section {
-  height: 100vh;
-} */
+#welcome-section {
+  height: 10vh;
+}
+@media screen and (max-height: 450px) {
+  #navbar  {padding-top: 15px;}
+  #navbar  a {font-size: 18px;}
+}
