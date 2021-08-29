@@ -5,3 +5,7 @@
   #navbar  {padding-top: 15px;}
   #navbar  a {font-size: 18px;}
 }
+#navbar {
+  position: fixed;
+  top: 0%;
+}
